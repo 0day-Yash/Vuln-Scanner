@@ -5,7 +5,7 @@ A simple vulnerability scanner tool.
 ## Features
 
 - Scans specified IP and port for known vulnerabilities.
-- Displays ASCII art and usage instructions.
+- Displays reported vulnerability and exploit/payload usage instructions.
 
 ## Usage
 
