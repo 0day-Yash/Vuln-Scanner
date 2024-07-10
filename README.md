@@ -12,4 +12,4 @@ A simple vulnerability scanner tool.
 To use the vulnerability scanner, run the following command:
 
 ```sh
-python vulnerability_scanner.py <target_ip> <port> [-v <vuln1> <vuln2> ...]
+python vulnerabilityscan.py <target_ip> <port> [-v <vuln1> <vuln2> ...]
